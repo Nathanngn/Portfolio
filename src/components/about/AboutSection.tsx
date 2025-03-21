@@ -12,7 +12,7 @@ export default function AboutSection() {
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div className="space-y-8">
               <p className="text-xl leading-relaxed text-gray-700">
-                etxt
+                Je suis Nathan Guenon
               </p>
               <p className="text-xl leading-relaxed text-gray-700">
                
