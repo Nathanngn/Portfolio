@@ -37,7 +37,7 @@ export const projects: Project[] = [
     procedureUrl: "/procedures/easyvista.pdf"
   },
   {
-    title: "HAPROXY",
+    title: "Haute disponibilité d'un site web",
     description: "Configuration d'un équilibreur de charge.",
     technologies: ["HAProxy", "Linux"],
     image: "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?auto=format&fit=crop&q=80&w=1200",
@@ -70,19 +70,19 @@ export const projects: Project[] = [
   },
   {
     title: "MON EPICERIE",
-    description: "Application de gestion d'épicerie.",
+    description: "",
     technologies: ["Gestion de Projet", "GANTT"],
-    image: "https://images.unsplash.com/photo-1578916171728-46686eac8d58?auto=format&fit=crop&q=80&w=1200",
-    tasks: ["Développement de l'application"],
+    image: "https://alexandrebongrand.fr/images/R%C3%A9alisation_Pro/monEpicerie/monEpicerie.png",
+    tasks: ["Mise en place de différents services"],
     procedureUrl: "/procedures/epicerie.pdf"
   },
   {
     title: "PROJET BERLINGO",
-    description: "Gestion de flotte de véhicules.",
-    technologies: [],
+    description: ".",
+    technologies: ["GANTT", "CHIFFRAGE"],
     image: "https://images.unsplash.com/photo-1581093458791-9f3c3900df4b?auto=format&fit=crop&q=80&w=1200",
     tasks: ["Installation du système"],
-    procedureUrl: "/procedures/berlingo.pdf"
+    procedureUrl: "/procedures/projet-berlingo.pdf"
   },
   {
     title: "PORTFOLIO",
@@ -93,19 +93,19 @@ export const projects: Project[] = [
     procedureUrl: "/procedures/portfolio.pdf"
   },
   {
-    title: "ZABBIX",
-    description: "Mise en place d'une solution de monitoring réseau.",
-    technologies: ["Zabbix", "Linux"],
+    title: "Haute disponibilité d'un AD",
+    description: "Mise en place de deux contrôleurs de domaine dans un même domaine Active Directory..",
+    technologies: ["Windows", "Active Directory"],
     image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80&w=1200",
-    tasks: ["Installation de Zabbix"],
-    procedureUrl: "/procedures/zabbix.pdf"
+    tasks: ["Configuration de deux controleurs de domaines"],
+    procedureUrl: "/procedures/hd-ad.pdf"
   },
   {
-    title: "PROXMOX",
-    description: "Déploiement d'une infrastructure de virtualisation.",
-    technologies: ["Proxmox", "Linux"],
+    title: "Automatisation des tâches sur l'AD",
+    description: "Automatisation des taches sur l'AD à l'aide de script",
+    technologies: ["Windows", "PowerShell"],
     image: "https://images.unsplash.com/photo-1597852074816-d933c7d2b988?auto=format&fit=crop&q=80&w=1200",
-    tasks: ["Installation de Proxmox"],
-    procedureUrl: "/procedures/proxmox.pdf"
+    tasks: [""],
+    procedureUrl: "/procedures/script-csv.pdf"
   }
 ];
