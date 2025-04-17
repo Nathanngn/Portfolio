@@ -8,11 +8,11 @@ import { motion } from 'framer-motion';
 const watchCategories = [
   {
     icon: Rss,
-    title: "Flux RSS",
-    description: "Agrégateur de flux RSS pour suivre l'actualité IT",
+    title: "Sites spécialisés",
+    description: "01.net, CERT-FR",
     items: []
   },
-  {
+  { 
     icon: BookOpen,
     title: "Réseaux sociaux",
     description: "Twitter (X), Youtube, LinkedIn",
@@ -20,8 +20,8 @@ const watchCategories = [
   },
   {
     icon: Globe,
-    title: "Sites Spécialisés",
-    description: "Sites d'actualités et de ressources IT",
+    title: "Micode",
+    description: "Micode se démarque par son talent à vulgariser des sujets complexes en cybersécurité et en technologie, en alliant exigence journalistique et formats créatifs",
     items: []
   }
 ];

@@ -48,7 +48,7 @@ export const projects: Project[] = [
     title: "TRUENAS",
     description: "Mise en place d'un système de stockage.",
     technologies: ["TrueNAS"],
-    image: "https://images.unsplash.com/photo-1600267175161-cfaa711b4a81?auto=format&fit=crop&q=80&w=1200",
+    image: "https://davejansen.com/content/images/size/w600/2023/06/truenas_logo_on_white.webp",
     tasks: ["Configuration de TrueNAS"],
     procedureUrl: "/procedures/truenas.pdf"
   },
@@ -56,7 +56,7 @@ export const projects: Project[] = [
     title: "WORDPRESS DOCKER",
     description: "Déploiement de WordPress avec Docker.",
     technologies: ["Docker", "WordPress"],
-    image: "https://images.unsplash.com/photo-1629654297299-c8506221ca97?auto=format&fit=crop&q=80&w=1200",
+    image: "https://siecledigital.fr/wp-content/uploads/2018/08/wordpress.jpg",
     tasks: ["Configuration de Docker"],
     procedureUrl: "/procedures/wordpress-docker.pdf"
   },
@@ -80,7 +80,7 @@ export const projects: Project[] = [
     title: "PROJET BERLINGO",
     description: ".",
     technologies: ["GANTT", "CHIFFRAGE"],
-    image: "https://images.unsplash.com/photo-1581093458791-9f3c3900df4b?auto=format&fit=crop&q=80&w=1200",
+    image: "https://www.kitutilitaire.com/assets_client/global/vehicule/Citroen-600x400-/BERLINGO%20II%20-%202008.png",
     tasks: ["Installation du système"],
     procedureUrl: "/procedures/projet-berlingo.pdf"
   },
